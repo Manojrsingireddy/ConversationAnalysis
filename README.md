@@ -1,7 +1,7 @@
 # Conversation Analysis Program
 
 ## Description
-The Conversation Analysis Program is a tool designed for Mac users who utilize iMessage on their Macs. This program allows you to perform various insightful conversation analysis tasks. Please refer to the list below for the currently implemented and upcoming features.
+The Conversation Analysis Program is a tool designed for Mac users who utilize iMessage on their Macs. This program allows you to perform various insightful conversation analysis tasks. 
 
 ### Implemented Features
 1. **Time Difference Analysis**: Analyze time intervals between messages in your conversations.
